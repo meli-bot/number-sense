@@ -19,7 +19,8 @@ export const invA14 = {
 '3 + 6 + 12 + ... + 36 +39 =': '',
 '\\textrm{The median of 1, 1, 2, 3, 5, 8, 11, and 13 is }': '',
 '(4102 + 116) \\times 131 =': '',
-
+'':'',
+  
 }
 
 export const invB14 ={
